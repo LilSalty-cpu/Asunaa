@@ -28,11 +28,10 @@ Le token est utilisé pour se connecter
 
 ## Comment installer:
 1. Installe node.js sur https://nodejs.org et la dernière version de Python
-2. 
-3. Once everything has installed run **start.bat** .
-4. Wait for everything to load and the bot should now be up and running.
-
-If you want the node_modules folder to be pre installed instead of running install.bat, go to the [Release page and download the latest zip file](https://github.com/Aaronidk/Dorito-bot-discord.js/releases) 
+2. cd GroutyBOT
+3. npm install
+3. Une fois toute les installations effectué, lance **start.bat** .
+4. Attendre.
 
 
 # Well Done!
@@ -42,13 +41,6 @@ You now have a self hosted working bot on your server!
 If you want more reliable hosting without having it run on your main pc or on your home network, I recommend buying a web server.
 The bot can be ran on Linux and Windows.
 
-# Linux Install:
-1. Download nodejs
-2. Download the bot from the release page.
-3. Use the terminal to navigate to the bot folder location where the index is located (dorito.js or index.js)
-4. Type npm install
-5. To start the bot make sure you're terminal is still navigated to the bot folder then type " node . " or "node index.js " or " node dorito.js "
-6. I recommend learning how the terminal works as well as entering directories using cd in the terminal.
 
 # Troubleshooting
 If the music commands do not work then it is because FFMPEG was not installed.
