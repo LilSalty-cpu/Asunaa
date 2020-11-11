@@ -1,10 +1,10 @@
 module.exports = {
     name: "ban",
     category: "moderation",
-    description: "bans a mentioned user",
-    usage: "[COMMAND] + [USER]",
+    description: "Bannir un utilisateur !",
+    usage: "[COMMANDE] + [UTILISATEUR]",
     run: async (client, message, args) => {
-        message.channel.send(`Command under construction!`);
+        message.channel.send(`La commande est en construction ! Une MAJ sera bientot déployé !`);
 
     }
 }
