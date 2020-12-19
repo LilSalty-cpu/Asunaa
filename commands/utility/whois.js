@@ -7,7 +7,6 @@
     description: "Avoir les informations a propros d'un utilisateur",
     usage: "[commande | utilisateur] or [commande]",
     run: async (client, message, args) => {
-    //command
     
 {
     const user = message.mentions.users.first();
