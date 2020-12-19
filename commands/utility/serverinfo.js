@@ -6,7 +6,7 @@ module.exports = {
 description: "Information sur le serveur",
 usage: "[commande]",
 run: async (client, message, args) => {
-//command
+  
 let servericon = message.guild.iconURL;
 let serverembed = new Discord.MessageEmbed()
 .setTitle("Serveur Information")
