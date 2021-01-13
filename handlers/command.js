@@ -5,7 +5,7 @@ const ascii = require("ascii-table");
 let table = new ascii("Commands");
 table.setHeading("Command", "Load status");
 
-console.log("Welcome to [ DoritoBot ] // By https://github.com/aaronidk // Discord: Aaron#7444")
+console.log("Welcome to [ Asuna ] // By https://github.com/LilSalty-cpu")
 
    //Loads Discord economy module
     console.log("-------Loading economy module-------")
@@ -31,7 +31,7 @@ module.exports = (client) => {
         }
     });
     console.log(table.toString());
-    console.log("Welcome to [ DoritoBot ] // By https://github.com/aaronidk // Discord: Aaron#7444")
+    console.log("Welcome to [ Asuna ] // By https://github.com/LilSalty-cpu")
 
 	console.log("Logging into Bot User...");
 
