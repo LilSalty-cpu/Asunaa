@@ -1,4 +1,4 @@
-# [Lil Kha Bot Discord.js](https://github.com/Lil-Salty-cpu/bot3) 
+# [Asuna Bot Discord.js](https://github.com/Lil-Salty-cpu/bot3) 
 
 # **Guide d'installation **
 
@@ -6,12 +6,13 @@
 * Aller sur le [Discord Developer Portal](https://discordapp.com/developers/applications/)
 * Creer une nouvelle application.
 * Aller sur l'onglet bot et creer un bot.
+
 ### Token
 Le token est utilisé pour se connecter
 * Cliquez sur "copiez" a l'endroit ou il est marquer "token"
 * Une fois copier, coller le sur le config.json
 
- ### Your discord ID
+### Your discord ID
  * Active le mode developpeur dans l'onglet "Apparence" dans tes parametres de compte Discord
  * Envoie un message, clique droit sur ton pseudo, puis copier l'identifiant
  * Coller l'identifiant dans le fichier config.json.
@@ -28,7 +29,6 @@ Le token est utilisé pour se connecter
 
 ## Comment installer:
 1. Installe node.js sur https://nodejs.org et la dernière version de Python
-2. cd GroutyBOT
-3. npm install
+2. npm install
 3. Une fois toute les installations effectué, lance **start.bat** .
-4. Attendre.
+4. Et sayez !!
