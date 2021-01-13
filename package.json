@@ -1,8 +1,8 @@
 {
-  "name": "Asuna",
+  "name": "asuna",
   "version": "2.0.0",
-  "description": "binks",
-  "main": "dorito.js",
+  "description": "salty",
+  "main": "index.js",
   "dependencies": {
     "ascii-table": "^0.0.9",
     "booru": "^2.3.2",
@@ -10,7 +10,7 @@
     "cpu-stat": "^2.0.1",
     "discord-economy": "^1.2.2",
     "discord-rpc": "^3.1.4",
-    "discord.js": "^12.3.1",
+    "discord.js": "^12.5.1",
     "duration-format": "^0.0.2",
     "ffmpeg-static": "^4.2.7",
     "figlet": "^1.5.0",
@@ -34,39 +34,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Aaronidk/Dorito-bot-discord.js.git"
+    "url": "git+https://github.com/LilSalty-cpu/Asunaa.git"
   },
   "keywords": [
-    "doritos",
-    "dorito",
-    "discord",
-    "discord-js",
-    "discord.js",
-    "discord-api",
-    "discord-music-bot",
-    "discord-bot",
-    "discordbot",
-    "youtube",
-    "music",
-    "hentai",
-    "nsfw",
-    "hentai-bot",
-    "hentai-sites",
-    "booru",
-    "booru-websites",
-    "music-bot",
-    "nodejs",
-    "npm",
-    "node-js",
-    "porn",
-    "multipurpose",
-    "gaming",
-    "utility"
-  ],
-  "author": "Aaronidk",
+    "asuna",
+    "binks"
+],
+  "author": "Salty",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Aaronidk/Dorito-bot-discord.js/issues"
+    "url": "https://github.com/LilSalty-cpu/Asunaa/issues"
   },
-  "homepage": "https://github.com/Aaronidk/Dorito-bot-discord.js#readme"
+  "homepage": "github.com/LilSalty-cpu/Asunaa/"
 }
