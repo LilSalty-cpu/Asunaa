@@ -17,7 +17,7 @@ client.categories = fs.readdirSync("./commands/");
 
 client.on("ready", () => {
 console.log(`Bot User ${client.user.username} has been logged in and is ready to use!`);
-client.user.setActivity('Lil Kha vibes | .help', { type: 'WATCHING' });
+client.user.setActivity('Asuna | +help', { type: 'WATCHING' });
 });
 
 client.on("message", async message => {
