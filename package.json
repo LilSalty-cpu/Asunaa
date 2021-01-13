@@ -1,7 +1,7 @@
 {
-  "name": "doritobot",
+  "name": "Asuna",
   "version": "2.0.0",
-  "description": "A multipurpose Discord bot with many NSFW and fun commands as well as utility, moderation SFW commands and more.",
+  "description": "binks",
   "main": "dorito.js",
   "dependencies": {
     "ascii-table": "^0.0.9",
